@@ -3,12 +3,6 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+Here is a screenshot of a tiny bit of code from an assignment where I queried DuckDuckGo about the presidents of the United States. It runs test cases to make sure my data was populated correctly to include every president.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
-
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![DuckDuckGo test code](./assets/DuckDuckGo.png)
